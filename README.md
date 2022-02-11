@@ -1,6 +1,6 @@
 # branch-deleter
 
-help to delete clutter git branch
+help remove messy old git branches
 
 > as an obsessive-compulsive, self-demanding ape, the long accumulation of messy branches without proper names is unbearable
 

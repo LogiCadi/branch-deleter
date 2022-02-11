@@ -1,6 +1,6 @@
 {
   "name": "branch-deleter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "help to delete clutter git branch",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "git",
     "branch"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LogiCadi/branch-deleter"
+  },
   "author": "mm996",
   "license": "ISC",
   "dependencies": {
